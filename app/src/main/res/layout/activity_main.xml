@@ -44,7 +44,6 @@
         android:layout_width="228dp"
         android:layout_height="50dp"
         android:layout_marginBottom="36dp"
-        android:hint="@string/app_name"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent">
 
@@ -61,7 +60,6 @@
         style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
         android:layout_width="270dp"
         android:layout_height="50dp"
-        android:hint="Telefonnummer"
         app:layout_constraintBottom_toTopOf="@+id/textInputLayout"
         app:layout_constraintStart_toStartOf="@+id/textInputLayout">
 
